@@ -1,4 +1,4 @@
-## Created Kayla Nahda Muadzah_21343052
+## Created by Kayla Nahda Muadzah_21343052
 Pada Jobsheet 8, kita mengenal dan mempelajari materi array. Array adalah variabel yang mempunyai indeks sehingga dapat menyimpan sejumlah data yang bertipe sama. Dimensi array adalah jumlah indeks pada variabel array. Array multi dimensi (lebih dari satu indeks, maksimal 7 indeks). Indeks array selalu dimulai dari 0. Dalam perhitungan, array sering digunakan untuk operasi matriks. Untuk pendeklarasian array kita bisa menggunakan tanda [] (kurung siku). Bentuk pendeklarasiannya sebagai berikut :
 
 Tipe_data nama_array[]; atau Tipe_data [] nama_array;
